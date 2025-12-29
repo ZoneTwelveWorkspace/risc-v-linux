@@ -1,3 +1,6 @@
 [submodule "opensbi"]
 	path = opensbi
 	url = git@github.com:riscv/opensbi.git
+[submodule "riscv-gnu-toolchain"]
+	path = riscv-gnu-toolchain
+	url = https://github.com/riscv-collab/riscv-gnu-toolchain.git
